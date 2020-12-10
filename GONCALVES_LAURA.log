@@ -1,0 +1,48 @@
+ce83ab0 HEAD@{0}: reset: moving to HEAD
+ce83ab0 HEAD@{1}: pull: Fast-forward
+872240c HEAD@{2}: reset: moving to HEAD
+872240c HEAD@{3}: reset: moving to 7f2d6ae~
+ce83ab0 HEAD@{4}: commit (amend): 3/4
+5f0c3a5 HEAD@{5}: rebase (finish): returning to refs/heads/main
+5f0c3a5 HEAD@{6}: rebase (squash): 3/4
+18a5459 HEAD@{7}: rebase (start): checkout 18a5459~
+f4789f6 HEAD@{8}: rebase (finish): returning to refs/heads/main
+f4789f6 HEAD@{9}: rebase (start): checkout f4789f6~
+f4789f6 HEAD@{10}: rebase (finish): returning to refs/heads/main
+f4789f6 HEAD@{11}: rebase (start): checkout f4789f6
+f4789f6 HEAD@{12}: commit: 4/4
+18a5459 HEAD@{13}: commit: 3/4
+7f2d6ae HEAD@{14}: commit: 2/4
+872240c HEAD@{15}: commit: 1/4
+20d1d36 HEAD@{16}: pull: Fast-forward
+132aabc HEAD@{17}: commit (amend): 2/4
+dd008bc HEAD@{18}: rebase (finish): returning to refs/heads/main
+dd008bc HEAD@{19}: rebase (squash): 2/4
+497ddc6 HEAD@{20}: rebase (squash): # This is a combination of 2 commits.
+8a21f1f HEAD@{21}: rebase (start): checkout 3fcb8f7~
+2525fc3 HEAD@{22}: commit: 4/4
+e8422af HEAD@{23}: commit: 3/4
+8a21f1f HEAD@{24}: commit: 2/4
+3fcb8f7 HEAD@{25}: commit: 1/4
+1d20a89 HEAD@{26}: rebase (finish): returning to refs/heads/main
+1d20a89 HEAD@{27}: rebase (start): checkout 59106ad
+1d20a89 HEAD@{28}: rebase (finish): returning to refs/heads/main
+1d20a89 HEAD@{29}: rebase (start): checkout 59106ad
+1d20a89 HEAD@{30}: commit: Ajout de LISEZ_MOI.md
+1b9da8b HEAD@{31}: commit (amend): Modification du README.md
+7dbeb64 HEAD@{32}: commit (amend): Modification du README.md
+3791b70 HEAD@{33}: commit: Modification du README.md
+35dd452 HEAD@{34}: merge feat/git_is_awesome: Fast-forward
+08ee3ba HEAD@{35}: checkout: moving from feat/git_is_awesome to main
+35dd452 HEAD@{36}: rebase (finish): returning to refs/heads/feat/git_is_awesome
+35dd452 HEAD@{37}: rebase (pick): Modification du fichier1.txt
+08ee3ba HEAD@{38}: rebase (start): checkout main
+d5b6933 HEAD@{39}: checkout: moving from main to feat/git_is_awesome
+08ee3ba HEAD@{40}: checkout: moving from feat/git_is_awesome to main
+d5b6933 HEAD@{41}: checkout: moving from main to feat/git_is_awesome
+08ee3ba HEAD@{42}: commit: Nouveau fichier
+f11146b HEAD@{43}: checkout: moving from feat/git_is_awesome to main
+d5b6933 HEAD@{44}: commit: Modification du fichier1.txt
+f11146b HEAD@{45}: checkout: moving from main to feat/git_is_awesome
+f11146b HEAD@{46}: pull: Fast-forward
+59106ad HEAD@{47}: commit (initial): Commit initial
